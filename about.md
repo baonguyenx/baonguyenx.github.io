@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-author: Jay 
+author: Jay
 permalink: "/about/"
 ---
 Til now, life has been pretty much ups and downs, but mostly I am floating around in all those years til now. There is now a desire to something that meaningful in life. That is why I decided to blog. Blogging as a way for me to recorded my experience, my learning in university and reflected on these moments, lest I forget any meaningful moments in live.
