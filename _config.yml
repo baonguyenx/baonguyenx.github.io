@@ -1,12 +1,12 @@
 # Site settings
-title:          It's Nguyen
+title:          "It's Nguyen"
 description:    "Nguyen's Blog"
 url:            "https://baonguyenx.github.io"
 
 # Author
 author:
-  name:         Jay Nguyễn
-  email:        entrep.baonguyen@gmail.com
+  name:         "Jay Nguyễn"
+  email:        "entrep.baonguyen@gmail.com"
 
 # Build settings
 markdown:       kramdown
