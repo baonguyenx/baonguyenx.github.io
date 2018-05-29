@@ -1,13 +1,12 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          It's Nguyen
+description:    "Nguyen's Blog"
 url:            "https://baonguyenx.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Jay Nguyễn
+  email:        entrep.baonguyen@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -20,7 +19,7 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
