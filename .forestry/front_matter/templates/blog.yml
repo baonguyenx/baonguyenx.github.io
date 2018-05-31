@@ -5,4 +5,5 @@ fields:
 - type: tag_list
 - type: blocks
 pages:
+- _posts/thoughts-of-a-day.md
 - _posts/2018-05-29-testing.md
